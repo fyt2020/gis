@@ -1,0 +1,102 @@
+.index{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+
+}
+.index__header{
+
+    width: 100%;
+    height: 81px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.header__imgOne{
+
+
+
+}
+
+
+.header__imgTwo{
+    margin-left: 173px;
+
+
+}
+.index__content{
+    /* width: 100%; */
+    height: calc(100% - 81px);
+    border:1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.con__same{
+    width: 390px;
+    /* height: 864px; */
+    background: rgba(0,0,0,.7);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+
+
+.con__title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.con__num{
+    width: 255px;
+    height: 155px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: url('./img/大括号（蓝）.png');
+}
+.num__title{
+    font-size: 20px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+	color: #9cd8ff;
+}
+.num__num{
+    font-family:Heavy;
+    font-size: 52px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+	color: #0095ff;
+}
+
+.con__icon{
+    width: 27px;
+    height: 21px;
+    margin-right: 10px;
+}
+
+
+.con__titlew{
+    font-size: 24px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+	color: #dbdcde;
+}
+
+
+

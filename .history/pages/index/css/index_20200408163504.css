@@ -1,0 +1,191 @@
+.index{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+
+}
+.index__header{
+
+    width: 100%;
+    height: 81px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.header__imgOne{
+
+
+
+}
+
+
+.header__imgTwo{
+    margin-left: 173px;
+
+
+}
+.index__content{
+    height: calc(100% - 81px);
+    display: flex;
+    justify-content: center;
+}
+.con__same{
+    width: 390px;
+    /* height: 864px; */
+    background: rgba(20,25,33,.9);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    font-size: 20px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+    color: #dbdcde;
+    margin-right: 40px;
+}
+.con__same2{
+    width: 482px;
+    height: 867px;
+    background: rgba(20,25,33,.9);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    font-size: 20px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+    color: #dbdcde;
+    margin-right: 40px;
+}
+.con__same.one{
+     height: 864px;
+}
+.con__same.two{
+    height: 400px;
+}
+.con__same.three{
+    height: 500px;
+}
+
+
+
+.con__title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.con__num{
+    width: 255px;
+    height: 155px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* background-image: url('./img/大括号（蓝）.png'); */
+    background: url('./img/dl.png') 100%  no-repeat;
+}
+.con__num2{
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.num__left{
+
+    width: 145px;
+    height: 91px;
+    background: url('./img/xl.png') 100%  no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.num__right{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    width: 145px;
+    height: 91px;
+    background: url('./img/xh.png') 100%  no-repeat;
+    margin-left: 60px;
+}
+
+.num__title{
+    font-size: 20px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+	color: #9cd8ff;
+}
+.num__num{
+    font-family:Heavy;
+    font-size: 52px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+	color: #0095ff;
+}
+.num__numSn{
+
+    font-family:Heavy;
+    font-size: 38px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+	color:  #0095ff;
+}
+.num__numSl{
+
+    font-family:Heavy;
+    font-size: 38px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+	color:  #a2d93b;
+}
+.num__smallW{
+    width: 80%;
+    text-align: center;
+
+    font-size: 14px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 18px;
+	letter-spacing: 0px;
+	color: #9cd8ff;
+}
+
+.con__icon{
+    width: 27px;
+    height: 21px;
+    margin-right: 10px;
+}
+
+
+.con__titlew{
+    font-size: 24px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+	color: #dbdcde;
+}
+
+
+

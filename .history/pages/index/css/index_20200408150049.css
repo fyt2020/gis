@@ -1,0 +1,39 @@
+.index{
+    display: flex;
+    flex-direction: column;
+
+}
+.index__header{
+
+    width: 100%;
+    height: 81px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.header__imgOne{
+
+
+
+}
+
+
+.header__imgTwo{
+    margin-left: 173px;
+
+
+}
+.index__content{
+
+
+}
+.con__title{
+
+    display: flex;
+}
+
+
+
+
