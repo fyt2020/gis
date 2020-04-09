@@ -1,0 +1,8 @@
+.homeNav{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+ 
+    background: url('../../../css/img/home.jpg') 100%  center no-repeat;
+
+}

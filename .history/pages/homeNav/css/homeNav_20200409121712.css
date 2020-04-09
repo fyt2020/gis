@@ -1,0 +1,30 @@
+.homeNav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    background: url('../../../css/img/home.jpg')  no-repeat center;
+    position: relative;
+}
+.homeNav__logo{
+
+    position: absolute;
+    right: 114px;
+    top:23px;
+    width: 274px;
+    height: 66px;
+}
+.header__imgTwo{
+
+    width: 100%;
+    height: 100%;
+}
+.homeNav__con{
+    width: 350px;
+    height: 330px;
+    border: 1px solid #ffffff;
+    position: relative;
+
+
+}
