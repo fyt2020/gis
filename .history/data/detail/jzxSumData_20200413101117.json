@@ -1,0 +1,36 @@
+{
+    "status": 0,
+    "msg": "success",
+    "data": {
+        "jzxSumData":[{
+            "title":"提单号",
+            "value":"OOLUEZIA03187"
+        },
+        {
+            "title":"箱号",
+            "value":"OOLU8605905"
+        },
+        {
+            "title":"场位",
+            "value":"D1028072"
+        },
+        {
+            "title":"尺寸",
+            "value":"40"
+        },
+        {
+            "title":"箱主",
+            "value":"OOL"
+        },
+        {
+            "title":"IOS",
+            "value":"40"
+        },
+        {
+            "title":"空重",
+            "value":"E"
+        }
+    ]
+    }
+  }
+  

@@ -1,0 +1,28 @@
+{
+    "status": 0,
+    "msg": "success",
+    "data": {
+        "jzxNum":15000,
+        "spNum":70,
+        "dzwlNum":3,
+        "cbNum":4,
+        "cbNumMonth":4,
+        "clNum":60,
+        "clNumMonth":70,
+        "jzxSpreadX":["A区", "B区","C区","D区","E区","F区"],
+        "jzxSpreadY":[   {"value": 2000, "name": "A区"},
+            {"value": 3000, "name": "B区"},
+            {"value": 3000, "name": "C区"},
+            {"value": 3000, "name": "D区"},
+            {"value": 2000, "name": "E区"},
+            {"value": 2000, "name": "F区"}
+        ],
+        "jzxTrendX":["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+        "jzxTrendY":[  200, 932, 901, 934, 1290, 1330, 1320],
+        "cbTrendX":["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+        "cbTrendY":[  200, 932, 901, 934, 1290, 1330, 1320],
+        "clTrendX":["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+        "clTrendY":[  200, 932, 901, 934, 1290, 1330, 1320]
+    }
+  }
+  

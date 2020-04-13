@@ -1,0 +1,46 @@
+{
+    "status": 0,
+    "msg": "success",
+    "data": {
+   
+      "cdInfoDataS": [
+        {
+          "title": "预计到港",
+          "value": "2020-04-20 16:30"
+        },
+        {
+          "title": "预计离港",
+          "value": "2020-04-21 16:30"
+        },
+        {
+          "title": "停靠时间",
+          "value": "03:00"
+        },
+        {
+          "title": "船舶名称",
+          "value": "HELSINKI BRIDGE"
+        },
+        {
+          "title": "MMSI",
+          "value": "73119000"
+        },
+        {
+          "title": "呼号",
+          "value": "OOLUEZIA03193"
+        },
+        {
+          "title": "类型",
+          "value": "集装箱船"
+        },
+        {
+          "title": "总吨",
+          "value": "45345"
+        },
+        {
+          "title": "船长",
+          "value": "335米"
+        }
+      ]
+    }
+  }
+  

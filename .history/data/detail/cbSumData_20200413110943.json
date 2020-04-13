@@ -1,0 +1,26 @@
+{
+    "status": 0,
+    "msg": "success",
+    "data": {
+        "clNum":33,
+        "clNumMonth":231,
+        "clInfoData":[{
+            "value":"[外集卡] 闽D3490"
+        },{
+            "value":"[内集卡] 京D3490"
+        },{
+            "value":"[外集卡] 沪D3490"
+        },{
+            "value":"[内集卡] 鄂D3490"
+        },{
+            "value":"[外集卡] 湘D3490"
+        },{
+            "value":"[外集卡] 颠D3490"
+        },{
+            "value":"[外集卡] 闽D3490"
+        }],
+        "clTrendX":["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+        "clTrendY":[  200, 932, 901, 934, 1290, 1330, 1320]
+    }
+  }
+  

@@ -1,0 +1,25 @@
+{
+    "status": 0,
+    "msg": "success",
+    "data": {
+        "spSumData": [
+            {
+              "title": "品牌",
+              "value": "OOLUEZIA03187"
+            },
+            {
+              "title": "型号",
+              "value": "123N"
+            },
+            {
+              "title": "运行情况",
+              "value": "良好"
+            },
+            {
+              "title": "位置",
+              "value": "闸口A-B转口"
+            }
+          ]
+    }
+  }
+  

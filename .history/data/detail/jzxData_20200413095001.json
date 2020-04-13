@@ -1,0 +1,18 @@
+{
+    "status": 0,
+    "msg": "success",
+    "data": {
+        "jzxNum":1000,
+        "jzxSpreadX":["A区", "B区","C区","D区","E区"],
+        "jzxSpreadY":[   {"value": 1000, "name": "A区"},
+            {"value": 500, "name": "B区"},
+            {"value": 234, "name": "C区"},
+            {"value": 135, "name": "D区"},
+            {"value": 400, "name": "E区"}],
+        "jzxTrendX":["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+        "jzxTrendY":[  200, 932, 901, 934, 1290, 1330, 1320],
+        "jzxSumData":[]
+ 
+    }
+  }
+  

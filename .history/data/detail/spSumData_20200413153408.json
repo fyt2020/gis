@@ -1,0 +1,29 @@
+{
+    "status": 0,
+    "msg": "success",
+    "data": {
+        "spSumData": [
+            {
+            "位置坐标": "品牌",
+            "value": "X1（经度116.404, 纬度39.915"
+            },
+            {
+              "title": "品牌",
+              "value": "海康威视"
+            },
+            {
+              "title": "型号",
+              "value": "DS-2CC11A2P(N)-IR1(IR3)(IR5)"
+            },
+            {
+              "title": "运行情况",
+              "value": "正常"
+            },
+            {
+              "title": "所在区域",
+              "value": "危险品堆场B堆场"
+            }
+          ]
+    }
+  }
+  

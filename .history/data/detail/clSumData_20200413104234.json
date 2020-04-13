@@ -1,0 +1,9 @@
+{
+    "status": 0,
+    "msg": "success",
+    "data": {
+        "clInfoDataS1":[{"title":"车牌号","value":"闽DH8190"},{"title":"品牌型号","value":"解放牌CA5251XXYP1K2L7T"},{"title":"所属公司","value":"安国市天华友谊物流有限公司"},{"title":"车辆类型","value":"重型仓栅式货车"},{"title":"车辆识别号","value":"LFNCRULX1CAD03625代"},{"title":"额定载重量","value":"21000kg"},{"title":"起运地","value":"河北"}],
+        "clInfoDataS2":[{"title":"车牌号","value":"闽DH8190"},{"title":"品牌型号","value":"解放牌CA5251XXYP1K2L7T"},{"title":"所属公司","value":"安国市天华友谊物流有限公司"},{title:"车辆类型","value":"重型仓栅式货车"},{title:"车辆识别号","value":"LFNCRULX1CAD03625代"},{"title":"额定载重量","value":"21000kg"},{"title":"起运地","value":"河北"}]
+    }
+  }
+  

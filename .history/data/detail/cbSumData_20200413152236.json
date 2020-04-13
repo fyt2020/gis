@@ -1,0 +1,58 @@
+{
+    "status": 0,
+    "msg": "success",
+    "data": {
+   
+      "cdInfoDataS": [
+        {
+          "title": "预计到港",
+          "value": "2020-04-20 16:30"
+        },
+        {
+          "title": "预计离港",
+          "value": "2020-04-21 16:30"
+        },
+        {
+          "title": "停靠时间",
+          "value": "03:00"
+        },
+        {
+          "title": "船舶名称",
+          "value": "HELSINKI BRIDGE"
+        },
+        {
+          "title": "MMSI",
+          "value": "33119000"
+        },
+        {
+          "title": "呼号",
+          "value": "3FIW4"
+        },
+        {
+          "title": "IMO",
+          "value": "9588081"
+        },
+        {
+          "title": "类型",
+          "value": "集装箱船"
+        },
+        {
+          "title": "总吨",
+          "value": "56913"
+        },
+        {
+          "title": "船长",
+          "value": "335米"
+        },
+        {
+          "title": "船宽",
+          "value": "46米"
+        },
+        {
+          "title": "吃水",
+          "value": "10.8米"
+        }
+      ]
+    }
+  }
+  
