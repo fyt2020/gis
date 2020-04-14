@@ -3,16 +3,16 @@
 
 
 (function(window,$,doc) {
-    var Star = function(){    
-         this.init();     
+    var Star = function(){
+         this.init();
      }
 
   Star.prototype = {
     constructor:Star,
     init(){
-     
+
           this.bindHandle(doc);
-          this.getData('../../../data/index/index.json');
+          this.getData(window.baseUrl.indexUrl);
 　　　},
     /**
      * @Author fyt
@@ -42,7 +42,7 @@
        this.createNum(objNum,dzwlData);
 
     },
-    
+
     /**
      * @Author fyt
      * @Description 实时总数
@@ -94,7 +94,7 @@
                 width: "80%", // 宽度
                 height: "80%"// 高度
               },
-        
+
             xAxis: {
               offset: 2,
               type: "category",
@@ -122,7 +122,7 @@
             //   max:2000,
             //   min:0,
             //   splitNumber: 2,
-              minInterval: 1, 
+              minInterval: 1,
               axisTick: {
                 show: false
               },
@@ -184,8 +184,8 @@
                 //     }
                 //   }
                 // },
-                // #5ecbec 0%, 
-                // #449ff2 55%, 
+                // #5ecbec 0%,
+                // #449ff2 55%,
                 // #2972f8 100%);
                 areaStyle: {
                   normal: {
@@ -207,7 +207,7 @@
                   orient: 'horizontal',
                   left:0,
                   bottom:20,
-          
+
                   textStyle: { //图例文字的样式
                       color: '#fff',
                       fontSize: 12
@@ -247,7 +247,7 @@
      */
     createTwo(xdata1,ydata1){
 
-      
+
         var myChart1 = echarts.init(document.getElementById("zexian2"));
         myChart1.setOption({
             grid: {
@@ -256,7 +256,7 @@
                 width: "80%", // 宽度
                 height: "80%"// 高度
               },
-        
+
             xAxis: {
               offset: 2,
               type: "category",
@@ -284,7 +284,7 @@
             //   max:2000,
             //   min:0,
             //   splitNumber: 2,
-              minInterval: 1, 
+              minInterval: 1,
               axisTick: {
                 show: false
               },
@@ -346,8 +346,8 @@
                 //     }
                 //   }
                 // },
-                // #5ecbec 0%, 
-                // #449ff2 55%, 
+                // #5ecbec 0%,
+                // #449ff2 55%,
                 // #2972f8 100%);
                 areaStyle: {
                   normal: {
@@ -381,7 +381,7 @@
                 width: "80%", // 宽度
                 height: "80%"// 高度
               },
-        
+
             xAxis: {
               offset: 2,
               type: "category",
@@ -409,7 +409,7 @@
             //   max:2000,
             //   min:0,
             //   splitNumber: 2,
-              minInterval: 1, 
+              minInterval: 1,
               axisTick: {
                 show: false
               },
@@ -471,8 +471,8 @@
                 //     }
                 //   }
                 // },
-                // #5ecbec 0%, 
-                // #449ff2 55%, 
+                // #5ecbec 0%,
+                // #449ff2 55%,
                 // #2972f8 100%);
                 areaStyle: {
                   normal: {
@@ -504,7 +504,7 @@
        const { data, status } = await response.json();
        if(status == 0){
             return data
-       }else{   
+       }else{
              console.log("请求错误1")
        }
      }catch(err){

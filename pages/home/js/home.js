@@ -1,7 +1,7 @@
 
 
 (function(window,$,doc) {
-    var Star = function(){    
+    var Star = function(){
          this.init();
      }
 
@@ -9,7 +9,8 @@
     constructor:Star,
     init(){
           this.bindHandle(doc);
-          this.getData('../../../data/home/home.json');
+      console.log(window.baseUrl.homeUrl);
+      this.getData(window.baseUrl.homeUrl);
 　　　},
     /**
      * @Author fyt
@@ -23,7 +24,7 @@
       let {jzxNum ,spNum,dzwlNum,cbNum,clNum} = data;
       let objNum = {jzxNum ,spNum,dzwlNum,cbNum,clNum}
       this.createNum(objNum)
- 
+
 
 
     },
@@ -69,7 +70,7 @@
        const { data, status } = await response.json();
        if(status == 0){
             return data
-       }else{   
+       }else{
              console.log("请求错误1")
        }
      }catch(err){

@@ -10,5 +10,5 @@ window.baseUrl = {
       cbNumUrl:'../../../data/detail/cbData.json',
       cbSumUrl:'../../../data/detail/cbSumData.json',
       dzwlNumUrl:'../../../data/detail/dzwlData.json',
-      dzwlSumUrl:'../../../data/detail/dzwlSumData.json',
+      dzwlSumUrl:'"../../../data/detail/dzwlSumData.json',
 }
