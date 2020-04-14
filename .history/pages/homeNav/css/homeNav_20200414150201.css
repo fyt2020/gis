@@ -48,25 +48,23 @@
     position: absolute;
     cursor: pointer;
     transition: all 0.5s ease-in-out;
-
 }
 .con__img:hover{
 
-    transform:scale(0.9,0.9);
-	-webkit-transform:scale(0.9,0.9);
-	-o-transform:scale(0.9,0.9);
+    transform:scale(0.7,0.7);
+	-webkit-transform:scale(0.7,0.7);
+	-o-transform:scale(0.7,0.7);
+	/*x,y值，*/
 	transition:all 1s;
 	-webkit-transition:all 1s;
 	-o-transition:all 1s;
 	/*对前效果的过度*/
-    opacity:1;
-    height: 500px;
-    /* z-index:1 */
+	opacity:1;z-index:1
 }
 
 
 .con__img:nth-of-type(1){
-    right:-155px;
+    right: ;: 65px;
     top:-446px;
 
     /* -moz-transform:rotate(45deg);
@@ -76,8 +74,8 @@
     transform:rotate(45deg); */
 }
 .con__img:nth-of-type(2){
-    right: -470px;
-    top:-140px;
+    right: -370px;
+    top:-280px;
 
     /* -moz-transform:rotate(45deg);
     -webkit-transform:rotate(45deg);

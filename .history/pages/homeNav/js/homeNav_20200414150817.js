@@ -67,7 +67,7 @@
           ele.src = '../../../css/img/dzwl.png';
         break;
         case '106':
-          ele.src = '../../../css/img/wlzblh.png';
+          ele.src = '../../../css/img/dzwl.png';
         break;
     }
 
@@ -92,7 +92,7 @@
           ele.src = '../../../css/img/dzwl2.png';
         break;
         case '106':
-          ele.src = '../../../css/img/wlzbh.png';
+          ele.src = '../../../css/img/wlzblh.png';
         break;
     }
 
