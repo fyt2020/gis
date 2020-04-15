@@ -1,0 +1,38 @@
+{
+    "status": 0,
+    "msg": "success",
+    "data": {
+      
+        "wlzbInfoData":[         
+        {
+        "title":"A基站:",
+        "valueone":40,
+        "valueTwo": "10.6GB",
+        "valueThr": "24.5%",
+        "valuefour": "10.3%"
+        },
+        {
+          "value": "华尔英号"
+        },
+        {
+          "value": "华尔英号"
+        },
+        {
+          "value": "HELSINKI BRIDGE"
+        },
+        {
+          "value": "HELSINKI BRIDGE"
+        },
+        {
+          "value": "HELSINKI BRIDGE"
+        },
+        {
+          "value": "HELSINKI BRIDGE"
+        },
+        {
+          "value": "HELSINKI BRIDGE"
+        }],
+       
+    }
+  }
+  

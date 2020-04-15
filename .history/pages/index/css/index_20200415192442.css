@@ -1,0 +1,369 @@
+.index{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+    /* background: linear-gradient(#000222, #9198e5); */
+}
+.index__header{
+    width: 100%;
+    height: 81px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.header__imgOne{
+}
+.header__imgTwo{
+    position: absolute;
+    right: 120px;
+}
+.index__content{
+    height: calc(100% - 81px);
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    position: relative;
+}
+.con__navigation{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top:800px;
+    left: 50%;
+    transform: translateX(-58%);
+}
+.con__navtag{
+    width: 130px;
+    height: 130px;
+    margin-right: 30px;
+}
+.con__navImg{
+    width: 100%;
+    height: 100%;
+}
+.con__oneTre{
+
+    height: 20px;
+    line-height: 20px;
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+.con__subT{
+    height: 20px;
+    line-height: 20px;
+}
+.con__subT.one{
+    margin: 15px 0 10px 0;
+}
+.con__yibiao{
+    width: 350px;
+    height: 280px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.con__yibiaoItem{
+    width: 32%;
+    height: 49%;
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+
+}
+
+
+.con__same{
+    width: 390px;
+    background: rgba(20,25,33,.7);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 20px;
+    font-size: 20px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+    color: #dbdcde;
+    margin-right: 40px;
+    box-sizing: border-box;
+    border-top: 4px solid #0095ff;
+    position: relative;
+}
+
+.con__same1,.con__same2{
+    padding-top: 20px;
+    background: rgba(20,25,33,.7);
+    border-top: 4px solid #0095ff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    position: relative;
+}
+.con__same1{
+
+    margin-bottom: 15px;
+}
+.con__same2{
+
+    height: calc(864px - 487px);
+}
+
+
+.con__same.one,.con__same.five{
+     height: 800px;
+}
+
+.con__same.two{
+    height: 800px;
+    padding: 0;
+    background: transparent;
+    border: none;
+}
+.con__same.three{
+    height: 500px;
+}
+.con__same.four{
+    width: 480px;
+    height: 800px;
+    padding-left:20px;
+    padding-right:20px;
+    box-sizing: border-box;
+}
+.con__ybp,.con_zhu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.con__ybp{
+    padding-top: 15px;
+}
+#san{
+    width: 240px;
+    height: 320px;
+}
+#zexian1{
+    width: 300px;
+    height: 180px;
+}
+#zhuzhuang1{
+    width: 300px;
+    height: 200px;
+    margin: 10px 0;
+}
+#zexian2{
+    width: 300px;
+    height: 180px;
+    margin: 10px 0;
+}
+#zexian3{
+    width: 300px;
+    height: 180px;
+}
+.con__echa{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.con__video{
+    height: 140px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    /* margin-top: 20px; */
+    position: absolute;
+    bottom: 0;
+
+}
+.con__vdemo{
+    width: 50%;
+    height: 100%;
+    box-sizing: border-box;
+}
+.con__vdemo img{
+    width: 100%;
+    height: 100%;
+}
+.con__title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.con__videoNbox{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 0 10px;
+    height: 26px;
+    font-size: 12px;
+    width: 84px;
+    border: 1px solid #194d72;
+    margin-left: 40px;
+}
+
+.con__num{
+    width: 255px;
+    height: 110px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-size: 100% 100%;
+    background: url('../../../css/img/dl.png') no-repeat center;
+}
+.con__num2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0;
+    width: 77%;
+}
+.con__sum{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 255px;
+}
+.con__sumA{
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+}
+.con__sumTitle{
+  font-size: 20px;
+}
+.con__sumSubTitle{
+    font-size: 16px;
+    height: 25px;
+    line-height: 25px;
+
+}
+.con__sumP{
+
+    display: flex;
+    align-items: center;
+    height: 18px;
+}
+.con__sumPl{
+
+    font-size: 12px;
+}
+.con__sumPc{
+    height: 6px;
+    background-color: rgba(0,0,0,.1);
+    margin: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 130px;
+    border-radius: 3px;
+}
+.con__sumPcItem{
+    background:  linear-gradient(90deg,
+    #fb8961 0%,
+    #fc6267 55%,
+    #fc3b6d 100%);
+    height: 100%;
+    border-radius: 3px;
+}
+
+
+
+
+.num__left{
+
+    width: 145px;
+    height: 91px;
+    background: url('../../../css/img/xl.png') 100%  no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.num__right{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    width: 145px;
+    height: 91px;
+    background: url('../../../css/img/xh.png') 100%  no-repeat;
+    /* margin-left: 60px; */
+}
+
+.num__title{
+    font-size: 20px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+	color: #9cd8ff;
+}
+.num__num{
+    font-family:Heavy;
+    font-size: 52px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+	color: #0095ff;
+}
+.num__numSn{
+
+    font-family:Heavy;
+    font-size: 38px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+	color:  #0095ff;
+}
+.num__numSl{
+
+    font-family:Heavy;
+    font-size: 38px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+	color:  #a2d93b;
+}
+.num__smallW{
+    width: 80%;
+    text-align: center;
+    font-size: 14px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 18px;
+	letter-spacing: 0px;
+	color: #9cd8ff;
+}
+
+.con__icon{
+    width: 27px;
+    height: 27px;
+    margin-right: 10px;
+}
+
+
+.con__titlew{
+    font-size: 24px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 40px;
+	letter-spacing: 0px;
+    color: #dbdcde;
+
+}
+
+
+

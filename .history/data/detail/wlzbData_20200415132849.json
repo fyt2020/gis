@@ -1,0 +1,12 @@
+{
+    "status": 0,
+    "msg": "success",
+    "data": {
+        "wlzbNum":9,
+        "wlzbNumMonth":300,
+        "wlzbTrendX":["当前", "13点", "15点", "17点", "19点", "21点"],
+        "wlzbTrendY":[25,13,30,20,10,6]
+           
+    }
+  }
+  
