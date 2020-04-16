@@ -1,0 +1,53 @@
+{
+    "status": 0,
+    "msg": "success",
+    "data": {
+        "jzxNum":15000,
+        "spNum":70,
+        "dzwlNum":3,
+        "cbNum":4,
+        "cbNumMonth":4,
+        "clNum":60,
+        "clNumMonth":70,
+        "wlzbNum":9,
+        "wlzbNumMonth":300,
+
+        "jzxSpreadX":["A区", "B区","C区","D区","E区","F区"],
+        "jzxSpreadY":[   {"value": 2000, "name": "A区"},
+            {"value": 3000, "name": "B区"},
+            {"value": 3000, "name": "C区"},
+            {"value": 3000, "name": "D区"},
+            {"value": 2000, "name": "E区"},
+            {"value": 2000, "name": "F区"}
+        ],
+        "dzwlData":[{
+            "area":"A区域电子围栏",
+            "titleOne":"车辆闯入",
+            "valOne":10,
+            "titleTwo":"人员闯入",
+            "valTwo":6
+        },{
+            "area":"B区域电子围栏",
+            "titleOne":"车辆闯入",
+            "valOne":8,
+            "titleTwo":"人员闯入",
+            "valTwo":6
+
+        },{
+            "area":"A区域电子围栏",
+            "titleOne":"车辆闯入",
+            "valOne":12,
+            "titleTwo":"人员闯入",
+            "valTwo":8
+        }],
+        "wlzbTrendX":["周一", "周二", "周三", "周四", "周五", "周六","周日"],
+        "wlzbTrendY":[120.6,135.9,155.40,120.5,104.3,126.4,155],
+        "jzxTrendX":["13日", "14日", "15日", "16日", "17日"],
+        "jzxTrendY":[  5400, 10000, 27011, 19934,8100],
+        "cbTrendX":["13日", "14日", "15日", "16日", "17日"],
+        "cbTrendY":[  11, 21, 10, 7, 9],
+        "clTrendX":["13日", "14日", "15日", "16日", "17日"],
+        "clTrendY":[  41, 52, 60, 70, 49],
+    }
+  }
+  

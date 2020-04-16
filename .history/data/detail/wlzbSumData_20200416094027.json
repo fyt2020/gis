@@ -1,0 +1,32 @@
+{
+    "status": 0,
+    "msg": "success",
+    "data": {
+      
+        "wlzbInfoData":[         
+        {
+        "title":"A基站:",
+        "valueone":"40个",
+        "valueTwo": "10.6GB",
+        "valueThr": "24.5%",
+        "valuefour": "10.3%"
+        },
+        {
+          "title":"B基站:",
+          "valueone":"40个",
+          "valueTwo": "10.6GB",
+          "valueThr": "24.5%",
+          "valuefour": "10.3%"
+          },
+          {
+            "title":"C基站:",
+            "valueone":"40个",
+            "valueTwo": "10.6GB",
+            "valueThr": "24.5%",
+            "valuefour": "10.3%"
+            }
+       ]
+       
+    }
+  }
+  

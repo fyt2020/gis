@@ -1,0 +1,36 @@
+{
+    "status": 0,
+    "msg": "success",
+    "data": {
+        "cbNum":70,
+        "cbNumMonth":60,
+        "cbInfoData":[         
+        {
+        "value": "HELSINKI BRIDGE"
+        },
+        {
+          "value": "华尔英号"
+        },
+        {
+          "value": "华尔英号"
+        },
+        {
+          "value": "HELSINKI BRIDGE"
+        },
+        {
+          "value": "HELSINKI BRIDGE"
+        },
+        {
+          "value": "HELSINKI BRIDGE"
+        },
+        {
+          "value": "HELSINKI BRIDGE"
+        },
+        {
+          "value": "HELSINKI BRIDGE"
+        }],
+        "cbTrendX":["13日", "14日", "15日", "16日", "17日"],
+        "cbTrendY":[  11, 21, 10, 7, 9]
+    }
+  }
+  

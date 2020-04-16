@@ -1,0 +1,16 @@
+{
+    "status": 0,
+    "msg": "success",
+    "data": {
+        "jzxNum":10001,
+        "jzxSpreadX":["A区", "B区","C区","D区","E区"],
+        "jzxSpreadY":[   {"value": 4000, "name": "A区"},
+            {"value": 10000, "name": "B区"},
+            {"value": 23000, "name": "C区"},
+            {"value": 4000, "name": "D区"},
+            {"value": 3300, "name": "E区"}],
+            "jzxTrendX":["13点", "14点", "15点", "16点", "17点", "18点"],
+            "jzxTrendY":[  200, 532, 701, 934,810,330]
+    }
+  }
+  
